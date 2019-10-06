@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Formative SAE\Exercices programmation basique\Exercice 6\Exercice 6.3\Exercice 6.3\main.cpp(7,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Formative SAE\Exercices programmation basique\Exercice 6\Exercice 6.3\Exercice 6.3\main.cpp(9,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Formative SAE\Exercices programmation basique\Exercice 6\Exercice 6.3\Exercice 6.3\main.cpp(25,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Formative SAE\Exercices programmation basique\Exercice 6\Exercice 6.3\Exercice 6.3\main.cpp(99,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Formative SAE\Exercices programmation basique\Exercice 6\Exercice 6.3\Exercice 6.3\main.cpp(106,21): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Formative SAE\Exercices programmation basique\Exercice 6\Exercice 6.3\Exercice 6.3\main.cpp(113,22): warning C4018: '<' : incompatibilité signed/unsigned
+  Exercice 6.3.vcxproj -> D:\Formative SAE\Exercices programmation basique\Exercice 6\Exercice 6.3\Debug\Exercice 6.3.exe
